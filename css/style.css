@@ -21,7 +21,7 @@ body
 {
     line-height: 1.5;
     font-size: 16px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 *
 {
@@ -363,7 +363,7 @@ h3.my-profession
 {
     flex: 0 0 100%;
     max-width: 100%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .about .about-content .about-text h3
 {
@@ -371,7 +371,7 @@ h3.my-profession
     margin-bottom: 15px;
     font-weight: 700;
     color: var(--text-black-900);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .about .about-content .about-text h3 span
 {
@@ -382,7 +382,7 @@ h3.my-profession
     font-size: 16px;
     line-height: 25px;
     color: var(--text-black-700);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .about .about-content .personal-info
 {
@@ -690,7 +690,7 @@ h3.my-profession
     color: var(--text-black-900);
     font-weight: 700;
     text-transform: capitalize;
-    font-family: roboto, arial, helvetica;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .portfolio .portfolio-item-inner p
@@ -698,7 +698,7 @@ h3.my-profession
     font-size: 14px;
     color: var(--text-black-700);
     line-height: 23px;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
