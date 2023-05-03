@@ -724,6 +724,7 @@ h3.my-profession
     text-align: center;
     font-size: 25px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .contact-sub-title 
@@ -731,7 +732,7 @@ h3.my-profession
     color: var(--text-black-900);
     text-align: center;
     font-size: 15px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 .contact .contact-info-item
 {
