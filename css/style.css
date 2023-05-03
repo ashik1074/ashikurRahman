@@ -498,7 +498,15 @@ h3.my-profession
 {
     flex: 0 0 100%;
     max-width: 100%;
+    transition: all 0.3S ease;
 }
+
+.about .about-content .timeline-box:hover
+{
+    transform: scale(1.02);
+}
+
+
 .about .about-content .timeline
 {
     background-color: var(--bg-black-100);
